@@ -1,0 +1,30 @@
+_repo: Bell-s-Cathedrals--The-Cathedral-Church-of-LincolnA-History-and-Description-of-its-Fabric-and__43477
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 43477-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Kendrick, A. F. (Albert Frank)
+    alias: Kendrick, Albert Frank
+    birthdate: 1872
+    deathdate: 1954
+    gutenberg_agent_id: '42232'
+    url: http://www.gutenberg.org/2009/agents/42232
+description: ''
+gutenberg_issued: '2013-08-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43477'
+  lccn: 03012862
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'NA'
+- !lcsh 'Lincoln Cathedral'
+title: 'Bell''s Cathedrals: The Cathedral Church of Lincoln
+
+  A History and Description of its Fabric and a List of the Bishops'
+url: http://www.gutenberg.org/ebooks/43477
