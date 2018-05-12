@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '42232'
     url: http://www.gutenberg.org/2009/agents/42232
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43477#Bell-s-Cathedrals--The-Cathedral-Church-of-LincolnA-History-and-Description-of-its-Fabric-and_
 gutenberg_issued: '2013-08-15'
 gutenberg_type: Text
 identifiers:
